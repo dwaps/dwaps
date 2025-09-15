@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dwaps&label=Views&color=ffab5c&style=flat" alt="dwaps" /> </p>
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center"><a target="_blank" href="https://dwaps.fr">Trainer and Java Angular developper</a></h3>
+<h3 align="center"><a target="_blank" href="https://dwaps.fr">Trainer and Angular developper</a></h3>
 
 <p align="center">
 <a href="https://codepen.io/michael-cornillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="michael-cornillon" height="30" width="40" /></a>
